@@ -14,8 +14,8 @@
 
 ### Technologies
 
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 <!---
 alearoslan/alearoslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
