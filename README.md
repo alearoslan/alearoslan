@@ -1,6 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @alearoslan
-- 👀 I’m interested in learning new things 📚
+- 🎓 Computer Science graduate from University of Malaya, Malaysia
+- 👀 I’m interested in learning new things 📚 and loves cats! 💕🐈
 - 📫 How to reach me: 📧 alearoslan@gmail.com
 
 ### Languages
